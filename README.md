@@ -1,6 +1,6 @@
 # submission_flutter_pemula
 
-A new Flutter application.
+Flutter Project for Submission Belajar Membuat Aplikasi Flutter untuk Pemula
 
 ## Getting Started
 
